@@ -15,6 +15,8 @@ public class SpringCicdApplication {
 	@PostConstruct
 	public void init() {
 		logger.info("Spring Application Init..");
+		//Thinkmore09 Jenkins Username
+		//SpringCICD Jenkins Password
 	}
 
 	public static void main(String[] args) {

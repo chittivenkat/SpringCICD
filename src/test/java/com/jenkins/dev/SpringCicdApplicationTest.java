@@ -17,6 +17,7 @@ public class SpringCicdApplicationTest {
 	@Test
 	public void test() {
 		logger.info("Test case starting");
+		logger.info("Test case executing...");
 		assertEquals(true, true);
 	}
 
